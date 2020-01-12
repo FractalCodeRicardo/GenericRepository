@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8278dac-b2dc-44a9-8463-a1615131871e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WElblqXJFSiburGPya6GziyJAQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.MySqlRepositoryTest">
+    <configuration name="MySqlRepositorySQLTest.deleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaRepository" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MySqlRepositorySQLTest" />
+      <option name="METHOD_NAME" value="deleteTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySqlRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaRepository" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MySqlRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySqlRepositoryTest.deleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaRepository" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MySqlRepositoryTest" />
+      <option name="METHOD_NAME" value="deleteTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySqlRepositoryTest.deleteWhereTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaRepository" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MySqlRepositoryTest" />
+      <option name="METHOD_NAME" value="deleteWhereTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySqlRepositoryTest.updateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaRepository" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MySqlRepositoryTest" />
+      <option name="METHOD_NAME" value="updateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MySqlRepositoryTest" />
+        <item itemvalue="JUnit.MySqlRepositoryTest.deleteWhereTest" />
+        <item itemvalue="JUnit.MySqlRepositoryTest.deleteTest" />
+        <item itemvalue="JUnit.MySqlRepositorySQLTest.deleteTest" />
+        <item itemvalue="JUnit.MySqlRepositoryTest.updateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8278dac-b2dc-44a9-8463-a1615131871e" name="Default Changelist" comment="" />
+      <created>1578722708037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578722708037</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="633" y="176" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1578764203938">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="633" y="176" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/51.27.1549.873@51.27.1549.873" timestamp="1578764203938" />
+    <state width="518" height="466" key="DebuggerActiveHint" timestamp="1578860565811">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="518" height="466" key="DebuggerActiveHint/51.27.1549.873@51.27.1549.873" timestamp="1578860565811" />
+    <state width="1503" height="503" key="GridCell.Tab.0.bottom" timestamp="1578863227534">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1503" height="503" key="GridCell.Tab.0.bottom/51.27.1549.873@51.27.1549.873" timestamp="1578863227534" />
+    <state width="1503" height="503" key="GridCell.Tab.0.center" timestamp="1578863227533">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1503" height="503" key="GridCell.Tab.0.center/51.27.1549.873@51.27.1549.873" timestamp="1578863227533" />
+    <state width="1503" height="503" key="GridCell.Tab.0.left" timestamp="1578863227533">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1503" height="503" key="GridCell.Tab.0.left/51.27.1549.873@51.27.1549.873" timestamp="1578863227533" />
+    <state width="1503" height="503" key="GridCell.Tab.0.right" timestamp="1578863227533">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1503" height="503" key="GridCell.Tab.0.right/51.27.1549.873@51.27.1549.873" timestamp="1578863227533" />
+    <state width="1503" height="277" key="GridCell.Tab.1.bottom" timestamp="1578861028965">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1503" height="277" key="GridCell.Tab.1.bottom/51.27.1549.873@51.27.1549.873" timestamp="1578861028965" />
+    <state width="1503" height="277" key="GridCell.Tab.1.center" timestamp="1578861028965">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1503" height="277" key="GridCell.Tab.1.center/51.27.1549.873@51.27.1549.873" timestamp="1578861028965" />
+    <state width="1503" height="277" key="GridCell.Tab.1.left" timestamp="1578861028965">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1503" height="277" key="GridCell.Tab.1.left/51.27.1549.873@51.27.1549.873" timestamp="1578861028965" />
+    <state width="1503" height="277" key="GridCell.Tab.1.right" timestamp="1578861028965">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1503" height="277" key="GridCell.Tab.1.right/51.27.1549.873@51.27.1549.873" timestamp="1578861028965" />
+    <state x="358" y="121" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1578724445637">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="358" y="121" width="924" height="691" key="Maven.ArtifactSearchDialog/51.27.1549.873@51.27.1549.873" timestamp="1578724445637" />
+    <state x="632" y="400" width="377" height="133" key="ReplaceDuplicatesPrompt" timestamp="1578857670239">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="632" y="400" width="377" height="133" key="ReplaceDuplicatesPrompt/51.27.1549.873@51.27.1549.873" timestamp="1578857670239" />
+    <state x="314" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1578853289323">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="314" y="98" width="1022" height="737" key="SettingsEditor/51.27.1549.873@51.27.1549.873" timestamp="1578853289323" />
+    <state x="481" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1578853301632">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="481" y="291" key="com.intellij.ide.util.TipDialog/51.27.1549.873@51.27.1549.873" timestamp="1578853301632" />
+    <state x="355" y="202" width="931" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578852041342">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="355" y="202" width="931" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/51.27.1549.873@51.27.1549.873" timestamp="1578852041342" />
+    <state x="897" y="196" width="568" height="498" key="extract.method.dialog" timestamp="1578857665800">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="897" y="196" width="568" height="498" key="extract.method.dialog/51.27.1549.873@51.27.1549.873" timestamp="1578857665800" />
+    <state x="470" y="194" width="869" height="606" key="find.popup" timestamp="1578853416952">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="470" y="194" width="869" height="606" key="find.popup/51.27.1549.873@51.27.1549.873" timestamp="1578853416952" />
+    <state x="489" y="207" key="run.anything.popup" timestamp="1578846994390">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="489" y="207" key="run.anything.popup/51.27.1549.873@51.27.1549.873" timestamp="1578846994390" />
+    <state x="488" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1578773353537">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="488" y="214" width="672" height="678" key="search.everywhere.popup/51.27.1549.873@51.27.1549.873" timestamp="1578773353537" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MySqlRepositoryTest.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MySqlRepositoryTest.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MySqlRepositorySQLTest.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="result.toLowerCase()" />
+        <watch expression="generatedKeys.getLong(1)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
